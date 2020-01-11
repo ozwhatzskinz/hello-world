@@ -2,4 +2,3 @@
  new repository
 sayang
 otai
-wak lo
